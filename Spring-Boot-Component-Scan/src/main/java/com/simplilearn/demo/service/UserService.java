@@ -1,0 +1,12 @@
+package com.simplilearn.demo.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
+	public UserService() {
+	System.out.println("UserService :: Constructor");
+		// TODO Auto-generated constructor stub
+	}
+
+}
